@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CatFacts</string>
+    <string name="main_view_empty_state_text">Push the button</string>
+    <string name="main_screen_get_fact">Get Fact</string>
+    <string name="main_screen_error">An error has occurred</string>
+    <string name="cat_image_content_description">cat image</string>
+</resources>
