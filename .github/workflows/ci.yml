@@ -41,6 +41,9 @@ jobs:
       - name: Ktlint
         run: ./gradlew ktlint
 
+      - name: Detekt
+        run: ./gradlew detekt
+
       - name: Lint
         run: ./gradlew lintDebug
 
